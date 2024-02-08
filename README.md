@@ -1,4 +1,4 @@
-# microROS_Zephyr-
+# microROS_Zephyr
 This is a Repository that holds example code for microROS on Zephyr
 
 For this Project a Olimex STM32-E407 is used. The Official Tutorial from the microROS Webpage was used to build the package. (Link to Micro-ROS on Zephyr with Olimex STM32)[https://micro.ros.org/docs/tutorials/core/first_application_rtos/zephyr/] Then a new APP/Project was added. Here the Example from multithreaded publisher[https://github.com/micro-ROS/micro-ROS-demos/blob/feature/multithread/rclc/multithread_publisher_subscriber/main.c] were used to build this.
